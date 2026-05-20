@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Levin</h1>
 <h3 align="center">Backend Engineer | Distributed Systems | AI-Powered Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princelevin&color=blue" />
-</p>
-
 ---
 
 ## 🚀 About Me
