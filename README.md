@@ -68,14 +68,6 @@ Realtime transcription backend using Google Cloud Speech APIs.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princelevin&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princelevin&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prince-levin/)
