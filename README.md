@@ -1,6 +1,13 @@
-# Hi 👋, I'm Prince Levin
+<div align="center">
 
-<h3 align="center">Backend Engineer | Distributed Systems | Generative AI | Microservices | AI-Powered Platforms</h3>
+<h1>Hi 👋, I'm Prince Levin</h1>
+
+<h3>
+Backend Engineer | Distributed Systems | Generative AI <br/>
+Microservices | AI-Powered Platforms
+</h3>
+
+</div>
 
 ---
 
